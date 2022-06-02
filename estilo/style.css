@@ -180,6 +180,11 @@ footer img{
     font-size: 3.2em;
 }
 
+#cervezas .container-cervezas{
+    display: flex;
+    flex-direction: column;
+}
+
 /* Style Comidas Start */
 
 .comidas{
